@@ -1,0 +1,514 @@
+{
+  "banner":[
+    {"pic": "static/img/ban-01.png"},
+    {"pic": "static/img/ban-02.png"},
+    {"pic": "static/img/ban-03.png"},
+    {"pic": "static/img/ban-04.png"},
+    {"pic": "static/img/ban-05.png"},
+    {"pic": "static/img/ban-06.png"}
+  ],
+  "link": [
+    {"titPic": "static/img/lb.png"},
+    {"linksList":[
+      {"links": "新鲜水果","linksPic":"static/img/hm-01.png"},
+      {"links": "时令蔬菜","linksPic":"static/img/hm-02.png"},
+      {"links": "肉禽蛋品","linksPic":"static/img/hm-03.png"},
+      {"links": "海鲜水产","linksPic":"static/img/hm-04.png"},
+      {"links": "乳饮烘焙","linksPic":"static/img/hm-05.png"},
+      {"links": "餐饮熟食","linksPic":"static/img/hm-06.png"},
+      {"links": "面点净菜","linksPic":"static/img/hm-07.png"},
+      {"links": "休闲零食","linksPic":"static/img/hm-08.png"},
+      {"links": "酒水饮料","linksPic":"static/img/hm-09.png"},
+      {"links": "粮油百货","linksPic":"static/img/hm-10.png"}
+    ]}
+  ],
+  "newuser": [
+    {"newpic": "static/img/xr1.png"},
+    {"newcount": [
+      {"countgoods":"广东 砂糖橘 500g", "countimg": "/static/img/zj-01.png", "countprice": "￥ 7"},
+      {"countgoods":"秦巴山土鸡蛋6枚", "countimg": "/static/img/zj-02.png", "countprice": "￥ 5.6"}
+      ]}
+  ],
+  "lbnh": [
+    {"lbnhpic": "static/img/lbnh.png"},
+    {"nhlist": [
+      {"listimg":"static/img/lb-01.png","listtitle": "年货大促","listcount": "爆款满199减50","bgColor": "#fc6161"},
+      {"listimg":"static/img/lb-02.png","listtitle": "送礼体面","listcount": "最高299减100","bgColor": "#f5b420"},
+      {"listimg":"static/img/lb-03.png","listtitle": "充值专区","listcount": "充值送整箱奶","bgColor": "#bac639"},
+      {"listimg":"static/img/lb-04.png","listtitle": "活色生鲜","listcount": "满199立减50元","bgColor": "#f65889"}
+    ]}
+  ],
+  "hmtj": [
+    {"suggestname":"超盒算","tjtitle": "舟山带鱼 买1赠1","tjpicone":"static/img/tj-01.png","tjpictwo":"static/img/tj-02.png" },
+    {"suggestname":"年货特惠","tjtitle": "满299减100","tjpicone":"static/img/tj-03.png","tjpictwo":"static/img/tj-04.png" },
+    {"suggestname":"盒马100分","tjtitle": "一月好货风向标","tjpicone":"static/img/tj-05.png","tjpictwo":"static/img/tj-06.png" },
+    {"suggestname":"点外卖","tjtitle": "餐饮免费配送","tjpicone":"static/img/tj-07.png","tjpictwo":"static/img/tj-08.png" }
+  ],
+  "navlist": [
+    {"navname": "全部","navtitle": "猜你喜欢"},
+    {"navname": "年货节","navtitle": "春节甄选"},
+    {"navname": "下午茶","navtitle": "为你准备"},
+    {"navname": "食材","navtitle": "时令生鲜"},
+    {"navname": "休闲","navtitle": "好吃解馋"},
+    {"navname": "人气","navtitle": "大家在买"}
+  ],
+  "goodslistlike": [
+    {"goodsimg": "static/img/gs-01.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/gs-02.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    }
+  ],
+  "goodslistyear": [
+  {"goodsimg": "static/img/gs-02.png"},
+  {"goodsimg": "static/img/goods-01.png",
+    "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+    "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+    "goodsprice": "￥39.9",
+    "goodsqal": "/袋"
+  },
+  {"goodsimg": "static/img/goods-02.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-03.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-04.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-05.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-06.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/gs-01.png"},
+  {"goodsimg": "static/img/goods-01.png",
+    "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+    "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+    "goodsprice": "￥39.9",
+    "goodsqal": "/袋"
+  },
+  {"goodsimg": "static/img/goods-02.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-03.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-04.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-05.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  },
+  {"goodsimg": "static/img/goods-06.png",
+    "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+    "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+    "goodsprice": "￥29.9",
+    "goodsqal": "/盒"
+  }
+],
+  "goodslistforyou": [
+    {"goodsimg": "static/img/gs-02.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/gs-01.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    }
+  ],
+  "goodslistontime": [
+    {"goodsimg": "static/img/gs-02.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/gs-01.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    }
+  ],
+  "goodslisteating": [
+    {"goodsimg": "static/img/gs-02.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/gs-01.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    }
+  ],
+  "goodslistbuying": [
+    {"goodsimg": "static/img/gs-02.png"},
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+
+    {"goodsimg": "static/img/gs-01.png"},
+    {"goodsimg": "static/img/goods-01.png",
+      "goodsname": "帝皇鲜  安格斯牛腱肉 澳洲 安格斯牛腱肉",
+      "goodstitle": "源自澳洲270天谷饲安格斯牛腱肉",
+      "goodsprice": "￥39.9",
+      "goodsqal": "/袋"
+    },
+    {"goodsimg": "static/img/goods-02.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-03.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-04.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-05.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/goods-06.png",
+      "goodsname": "帝皇鲜  澳洲和牛M3-5保帝皇鲜  澳洲和牛M3-5保",
+      "goodstitle": "拒绝压制滚揉和添加，原肉拒绝压制滚揉和添加，原肉",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    }
+  ]
+
+}

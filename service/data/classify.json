@@ -1,0 +1,295 @@
+{
+  "classify": [
+    {"imgsrc": "static/img/class-01.png","claname":"新鲜水果" },
+    {"imgsrc": "static/img/class-02.png","claname":"时令蔬菜" },
+    {"imgsrc": "static/img/class-03.png","claname":"肉腐蛋品" },
+    {"imgsrc": "static/img/class-04.png","claname":"海鲜水产" },
+    {"imgsrc": "static/img/class-05.png","claname":"面点速食" },
+    {"imgsrc": "static/img/class-06.png","claname":"乳品烘焙" },
+    {"imgsrc": "static/img/class-07.png","claname":"餐饮熟食" },
+    {"imgsrc": "static/img/class-08.png","claname":"净菜半成品" },
+    {"imgsrc": "static/img/class-09.png","claname":"粮油调味" },
+    {"imgsrc": "static/img/class-10.png","claname":"休闲零食" },
+    {"imgsrc": "static/img/class-11.png","claname":"酒水饮料" },
+    {"imgsrc": "static/img/class-12.png","claname":"美护百货" }
+  ],
+
+
+  "littleclassifyone": [
+    "限时抢",
+    {"goodslist": [
+    {"goodsimg": "static/img/fenlei-01.jpg",
+      "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+      "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+      "goodsprice": "￥49.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-02.jpg",
+      "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+      "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-03.jpg",
+      "goodsname": "智利车厘子JJJ级大果1kg装",
+      "goodstitle": "智利进口，空运尝鲜，更大包装，",
+      "goodsprice": "￥79.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-04.jpg",
+      "goodsname": "智利 红车厘子JJJ级原箱5kg",
+      "goodstitle": "拒绝压制滚揉和添加，",
+      "goodsprice": "￥398",
+      "goodsqal": "/箱"
+    },
+    {"goodsimg": "static/img/fenlei-01.jpg",
+      "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+      "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+      "goodsprice": "￥49.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-02.jpg",
+      "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+      "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-03.jpg",
+      "goodsname": "智利车厘子JJJ级大果1kg装",
+      "goodstitle": "智利进口，空运尝鲜，",
+      "goodsprice": "￥79.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-04.jpg",
+      "goodsname": "智利 红车厘子JJJ级原箱5kg",
+      "goodstitle": "拒绝压制滚揉和添加，",
+      "goodsprice": "￥398",
+      "goodsqal": "/箱"
+    },
+    {"goodsimg": "static/img/fenlei-01.jpg",
+      "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+      "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+      "goodsprice": "￥49.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-02.jpg",
+      "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+      "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+      "goodsprice": "￥29.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-03.jpg",
+      "goodsname": "智利车厘子JJJ级大果1kg装",
+      "goodstitle": "智利进口，空运尝鲜，更大包装，",
+      "goodsprice": "￥79.9",
+      "goodsqal": "/盒"
+    },
+    {"goodsimg": "static/img/fenlei-04.jpg",
+      "goodsname": "智利 红车厘子JJJ级原箱5kg",
+      "goodstitle": "拒绝压制滚揉和添加，",
+      "goodsprice": "￥398",
+      "goodsqal": "/箱"
+    }
+  ]},
+    {"goodsclass": [
+      {"classlistname": "果盒推荐","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "柑橘橙柚"},
+      {"classlistname": "热带水果","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "车厘子/樱桃"},
+      {"classlistname": "蓝莓/草莓"},
+      {"classlistname": "时令水果"},
+      {"classlistname": "苹果/梨"},
+      {"classlistname": "提子/葡萄"},
+      {"classlistname": "西瓜/蜜瓜","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "奇异果"},
+      {"classlistname": "礼盒专区"},
+      {"classlistname": "果切/果汁"},
+      {"classlistname": "大家正在买","tuijian": "static/img/jian.jpg"}
+    ]}
+  ],
+
+  "littleclassifytwo": [
+    "畅销榜",
+    {"goodslist": [
+      {"goodsimg": "static/img/fenlei-01.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥49.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-02.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥29.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-03.jpg",
+        "goodsname": "智利车厘子JJJ级大果1kg装",
+        "goodstitle": "智利进口，空运尝鲜，更大包装，",
+        "goodsprice": "￥79.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-04.jpg",
+        "goodsname": "智利 红车厘子JJJ级原箱5kg",
+        "goodstitle": "拒绝压制滚揉和添加，",
+        "goodsprice": "￥398",
+        "goodsqal": "/箱"
+      },
+      {"goodsimg": "static/img/fenlei-01.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥49.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-02.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥29.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-03.jpg",
+        "goodsname": "智利车厘子JJJ级大果1kg装",
+        "goodstitle": "智利进口，空运尝鲜，",
+        "goodsprice": "￥79.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-04.jpg",
+        "goodsname": "智利 红车厘子JJJ级原箱5kg",
+        "goodstitle": "拒绝压制滚揉和添加，",
+        "goodsprice": "￥398",
+        "goodsqal": "/箱"
+      },
+      {"goodsimg": "static/img/fenlei-01.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥49.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-02.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥29.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-03.jpg",
+        "goodsname": "智利车厘子JJJ级大果1kg装",
+        "goodstitle": "智利进口，空运尝鲜，更大包装，",
+        "goodsprice": "￥79.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-04.jpg",
+        "goodsname": "智利 红车厘子JJJ级原箱5kg",
+        "goodstitle": "拒绝压制滚揉和添加，",
+        "goodsprice": "￥398",
+        "goodsqal": "/箱"
+      }
+    ]},
+    {"goodsclass": [
+      {"classlistname": "鲜盒推荐","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "日日鲜"},
+      {"classlistname": "火锅配菜","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "根茎类"},
+      {"classlistname": "绿叶菜"},
+      {"classlistname": "菌菇类"},
+      {"classlistname": "茄果/瓜果"},
+      {"classlistname": "提子/葡萄"},
+      {"classlistname": "有机/绿色"},
+      {"classlistname": "豆类/豆腐"},
+      {"classlistname": "调味/鲜料"},
+      {"classlistname": "沙拉/配料"},
+      {"classlistname": "大家正在买","tuijian": "static/img/jian.jpg"}
+    ]}
+  ],
+
+  "littleclassifythree": [
+    "食当季",
+    {"goodslist": [
+      {"goodsimg": "static/img/fenlei-04.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥49.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-03.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥29.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-02.jpg",
+        "goodsname": "智利车厘子JJJ级大果1kg装",
+        "goodstitle": "智利进口，空运尝鲜，更大包装，",
+        "goodsprice": "￥79.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-01.jpg",
+        "goodsname": "智利 红车厘子JJJ级原箱5kg",
+        "goodstitle": "拒绝压制滚揉和添加，",
+        "goodsprice": "￥398",
+        "goodsqal": "/箱"
+      },
+      {"goodsimg": "static/img/fenlei-04.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥49.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-03.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥29.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-02.jpg",
+        "goodsname": "智利车厘子JJJ级大果1kg装",
+        "goodstitle": "智利进口，空运尝鲜，",
+        "goodsprice": "￥79.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-01.jpg",
+        "goodsname": "智利 红车厘子JJJ级原箱5kg",
+        "goodstitle": "拒绝压制滚揉和添加，",
+        "goodsprice": "￥398",
+        "goodsqal": "/箱"
+      },
+      {"goodsimg": "static/img/fenlei-04.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥49.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-03.jpg",
+        "goodsname": "智利 红车厘子JJJ级大果（巴拉巴拉）",
+        "goodstitle": "你想不到的大,一口一大颗,口水直下三千尺",
+        "goodsprice": "￥29.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-02.jpg",
+        "goodsname": "智利车厘子JJJ级大果1kg装",
+        "goodstitle": "智利进口，空运尝鲜，更大包装，",
+        "goodsprice": "￥79.9",
+        "goodsqal": "/盒"
+      },
+      {"goodsimg": "static/img/fenlei-01.jpg",
+        "goodsname": "智利 红车厘子JJJ级原箱5kg",
+        "goodstitle": "拒绝压制滚揉和添加，",
+        "goodsprice": "￥398",
+        "goodsqal": "/箱"
+      }
+    ]},
+    {"goodsclass": [
+      {"classlistname": "肉盒推荐","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "日日鲜"},
+      {"classlistname": "火锅季"},
+      {"classlistname": "养生煲汤","tuijian": "static/img/jian.jpg"},
+      {"classlistname": "帝皇鲜"},
+      {"classlistname": "蛋类"},
+      {"classlistname": "鸡鸭禽肉"},
+      {"classlistname": "猪肉"},
+      {"classlistname": "羊肉类"},
+      {"classlistname": "牛肉"},
+      {"classlistname": "牛排","tuijian": "static/img/jian.jpg"}
+    ]}
+  ]
+
+}

@@ -1,0 +1,22 @@
+{
+  "community": [
+    {"title": "热门话题", "topic": "Hot topic"},
+    {"title": "21天晒健康早餐", "imgsrc": "static/img/com-01.png"},
+    {"title": "【抢先试吃】西州蜜25号，试吃报名啦!", "imgsrc": "static/img/com-02.png"},
+    {"title": "手写新年愿望，赢新年大礼", "imgsrc": "static/img/com-03.png"},
+    {"title": "【评论有奖】蜜瓜试吃报告发发布啦", "imgsrc": "static/img/com-04.png"},
+    {"title": "【互动有奖】17吃货日，年菜来啦", "imgsrc": "static/img/com-01.png"},
+    {"title": "【今天吃什么】简单易做的口袋面包", "imgsrc": "static/img/com-02.png"},
+    {"title": "晒出冰糖心~阿克苏苹果试吃！", "imgsrc": "static/img/com-03.png"},
+    {"title": "报名加入美食达人吧！", "imgsrc": "static/img/com-04.png"},
+    {"title": "热门推荐", "topic": "Hot suggest"},
+    {"title": "21天晒健康早餐", "imgsrc": "static/img/com-01.png"},
+    {"title": "【抢先试吃】西州蜜25号，试吃报名啦!", "imgsrc": "static/img/com-02.png"},
+    {"title": "手写新年愿望，赢新年大礼", "imgsrc": "static/img/com-03.png"},
+    {"title": "【评论有奖】蜜瓜试吃报告发发布啦", "imgsrc": "static/img/com-04.png"},
+    {"title": "【互动有奖】17吃货日，年菜来啦", "imgsrc": "static/img/com-01.png"},
+    {"title": "【今天吃什么】简单易做的口袋面包", "imgsrc": "static/img/com-02.png"},
+    {"title": "晒出冰糖心~阿克苏苹果试吃！", "imgsrc": "static/img/com-03.png"},
+    {"title": "报名加入美食达人吧！", "imgsrc": "static/img/com-04.png"}
+  ]
+}

@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body,p,ul,li,ol,dt,dd,h1,h2,h3,h4,h5,h6,hr,table,tr,td,form,input,select{margin:0;padding:0;}
+img,input{border:0;}
+a{text-decoration:none;}
+ul,ol,li{list-style:none;}
+
+html,body{
+  height: 100%;
+}
+html{
+  font-size: 26.67vw;
+}
+
+

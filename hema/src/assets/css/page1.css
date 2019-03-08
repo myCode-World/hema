@@ -1,0 +1,185 @@
+
+/*header*/
+header{
+  width: 100%;
+	height: .51rem;
+	/*border-bottom: 2px solid #f7f7f7;*/
+}
+header ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+  padding: 0 0.2rem;
+	line-height: .51rem;
+	font-size: .18rem;
+}
+header ul li{
+	display: flex;
+	align-items: center;
+}
+header ul li:nth-child(2){
+	/*justify-content: center;*/
+  align-items: center;
+}
+header span{
+	width: 0;
+	height: 0;
+	border: .05rem solid transparent;
+	border-top-color: #333333;
+	margin-left: .05rem;
+}
+header .iconfont{
+	font-size: .20rem;
+}
+#search{
+	margin-right: .31rem;
+}
+
+/*content*/
+.content{
+	width: 100%;
+	flex: 1;
+	overflow-y: auto;
+	overflow-x: hidden;
+	display: flex;
+	justify-content: flex-end;
+}
+/*foodClass*/
+.foodClass{
+	position: fixed;
+	top:.52rem;
+	left: 0;
+	width: 24%;
+	height: 100%;
+	background: #f7f7f7;
+}
+.foodClass ul li a{
+	font-size: .13rem;
+	color: #434343;
+	line-height: .46rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+.foodClass ul li:first-child{
+	background-color: white;
+}
+.foodClass ul li span{
+	width: .04rem;
+	height: .27rem;
+	border-radius: .04rem;
+	background-color: #27a2fc;
+	position: absolute;
+	top:.1rem;
+	left: 0;
+}
+.foodClass ul li img{
+	width: .13rem;
+	height: .13rem;
+	margin-right: 4px;
+}
+
+/*fruitList*/
+.fruitList{
+	width: 74%;
+	margin-left: .1rem;
+}
+.listTitle{
+	display: flex;
+}
+.listTitle li{
+	display: flex;
+}
+.listTitle li a{
+	padding: .12rem .22rem;
+	font-size: .13rem;
+	color:#3a3a3a;
+}
+.listTitle li:first-child a{
+	color: #3599c8;
+}
+/*aboutTitle*/
+.aboutTitle{
+	width: 100%;
+	height: .26rem;
+	line-height: .26rem;
+	border-radius: .04rem;
+	font-size: .12rem;
+	color: #8a8a8a;
+	background-color: #f5f5f5;
+	padding: 0 .13rem;
+}
+/*fruitInfo*/
+.fruitInfo{
+	padding: .11rem .06rem;
+}
+.fruitInfo li{
+	width: 100%;
+	height: 1.01rem;
+	display: flex;
+	justify-content: flex-start;
+}
+.fruitInfo li img{
+	width: .77rem;
+	height: .50rem;
+}
+.fruitInfo li ul{
+	height: .96rem;
+	display: flex;
+	flex-direction: column;
+	border-bottom: 1px solid #9D9D9D;
+	padding: .1rem 0 0;
+	margin-left: .08rem;
+}
+.fruitInfo li ul li{
+	width: 1.92rem;
+	height: .2rem;
+	font-size: .12rem;
+	line-height: .18rem;
+	color: #979797;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.fruitInfo li ul li:first-child{
+	font-size: .15rem;
+	color: #202020;
+}
+.price{
+	color: #eb1335;
+}
+.fruitInfo li ul li:last-child{
+	display: flex;
+	height: .34rem;
+}
+.fruitInfo li ul li:last-child span:last-child{
+	display: inline-block;
+	width: .27rem;
+	height: .27rem;
+	background: #25abff;
+	border-radius: 50%;
+	margin-left: 1.05rem;
+	margin-bottom: .05rem;
+	text-align: center;
+}
+.fruitInfo li ul li:last-child span:last-child i{
+	font-size: .16rem;
+	line-height: .27rem;
+	color: white;
+}
+.fruitInfo li ul .special span{
+	border:2px solid #e3b7c3;
+	border-radius: .04rem;
+	height: .13rem;
+	line-height: .13rem;
+	font-size: .1rem;
+	color: #f03441;
+	text-align: center;
+	margin-top: .03rem;
+	padding: 0 .02rem;
+}
+.fruitInfo li ul .oriCost{
+	font-size: .09rem;
+	text-decoration: line-through;
+}

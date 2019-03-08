@@ -1,0 +1,60 @@
+{
+  "user" : {},
+  "totalPrice":0,
+  "checked": true,
+  "shops":[
+    {
+
+      "shopName": "店铺一",
+      "checked": true,
+      "totalPrice": 0,
+      "products":[
+        {
+          "goodsimg": "static/img/fenlei-01.jpg",
+          "goodsname": "智利车厘子JJJ级大果1kg装",
+          "goodstitle": "智利进口，空运尝鲜，更大包装",
+          "goodsprice": 18.8,
+          "goodsqal" :1,
+          "goodscount": "/盒",
+          "checked": true
+        },
+        {
+          "goodsimg": "static/img/fenlei-02.jpg",
+          "goodsname": "智利车厘子JJJ级大果1kg装",
+          "goodstitle": "智利进口，空运尝鲜，更大包装",
+          "goodsprice": 86,
+          "goodsqal" :1,
+          "goodscount": "/盒",
+          "checked": true
+        }
+      ]
+    },
+    {
+
+      "shopName": "EAZZ",
+      "checked": true,
+      "totalPrice": 0,
+      "products":[
+        {
+          "goodsimg": "static/img/fenlei-03.jpg",
+          "goodsname": "智利车厘子JJJ级大果1kg装",
+          "goodstitle": "智利进口，空运尝鲜，更大包装",
+          "goodsprice": 129,
+          "goodsqal" :1,
+          "goodscount": "/盒",
+          "checked": true
+        },
+        {
+          "goodsimg": "static/img/fenlei-02.jpg",
+          "goodsname": "智利车厘子JJJ级大果1kg装",
+          "goodstitle": "智利进口，空运尝鲜，更大包装",
+          "goodsprice": 118,
+          "goodsqal" :1,
+          "goodscount": "/盒",
+          "checked": true
+        }
+      ]
+    }
+  ]
+
+}
